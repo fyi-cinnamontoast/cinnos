@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-ffreestanding",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-m32",
+      "-c",
+      "-o",
+      "bin/kmain.o",
+      "kernel/kmain.c"
+    ],
+    "directory": "/home/cinnamon/Project/CinnamonOS",
+    "file": "/home/cinnamon/Project/CinnamonOS/kernel/kmain.c",
+    "output": "/home/cinnamon/Project/CinnamonOS/bin/kmain.o"
+  }
+]
